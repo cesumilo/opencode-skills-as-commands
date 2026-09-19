@@ -8,6 +8,7 @@ const home = homedir();
 export const SKILL_PATHS = (worktree: string) => [
   join(worktree, ".opencode/skills"),
   join(home, ".config/opencode/skills"),
+  join(home, ".opencode/skills"),
   join(worktree, ".claude/skills"),
   join(home, ".claude/skills"),
   join(worktree, ".agents/skills"),
