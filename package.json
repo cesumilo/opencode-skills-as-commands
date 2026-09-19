@@ -1,6 +1,6 @@
 {
   "name": "opencode-skills-as-commands",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Expose all OpenCode skills as slash commands in the TUI autocomplete",
   "type": "module",
   "main": "src/index.ts",
